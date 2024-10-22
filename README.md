@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Spring Essential - Dev Superior&message=Versionamento de API&color=8257E5&labelColor=000000" alt="envio de email - sendgrid" />
+  <img src="https://img.shields.io/static/v1?label=Spring Essential - Dev Superior&message=Versionamento de API&color=8257E5&labelColor=000000" alt="estudo versionamento api" />
 </p>
 
 # Objetivo
